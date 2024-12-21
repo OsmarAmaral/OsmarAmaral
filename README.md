@@ -6,7 +6,7 @@
    
 </head>
 <body>
-    <h1>Então eu vo cume Kon Queso</h1>
+    <h1>Smoking or Dead</h1>
     <p>Ainda em desenvolvimento</p>
 </body>
 </html>
