@@ -1,11 +1,31 @@
-# hello, world
+Olá, eu sou o Osmar! Eu programo desde os 14 anos de idade. Atualmente, sou um Desenvolvedor Junior.
 
-## meu nome é Osmar! programo desde os 14 anos e hoje em dia estou atuando como Dev. jr
+## Projetos Principais
 
-### tecnologias
-1. Node.js e Express
-2. JavaScript, HTML, CSS e Bootstrap
-3. Python
-4. Java
-5. C++
-6. PostgreSQL e MySQL
+### AquaPulse Site
+Repositório contendo o código-fonte e os arquivos do site oficial do AquaPulse. O site fornece informações e atualizações sobre o projeto.
+- **Objetivo:** O objetivo do AquaPulse é fornecer um sistema integrado para monitoramento e controle da qualidade da água em diferentes ambientes. O site oficial serve como uma plataforma para compartilhar informações e atualizações sobre o projeto.
+- **Tecnologias Utilizadas:** PHP, MySQL, HTML, CSS, JavaScript, GitHub
+- **Funcionalidades:**
+  - **Página Inicial:** Apresenta uma visão geral do projeto e suas principais características.
+  - **Sobre:** Informações detalhadas sobre o AquaPulse, sua missão e equipe.
+  - **Blog:** Publica atualizações, notícias e artigos relacionados ao projeto.
+  - **Contato:** Formulário de contato para os visitantes entrarem em contato com a equipe do AquaPulse.
+  - **Documentação:** Seção dedicada à documentação técnica e guias do usuário.
+
+### AquaPulse BD
+Repositório para o projeto de banco de dados do AquaPulse.
+
+### AquaPulse Concepts
+Repositório para os conceitos e protótipos do AquaPulse.
+
+## Habilidades
+- **Linguagens:** Node.js, JavaScript, HTML, CSS, Bootstrap, Python (Flask), Java
+- **Bancos de Dados:** PostgreSQL, MySQL
+- **Outras Habilidades:** Análise de Dados
+
+## Conquistas
+- **2º lugar na Feira de Ciências (FECITI 2024)**
+- **Visita ao ERI-MT 2024**
+
+Sinta-se à vontade para entrar em contato comigo para qualquer colaboração ou apenas para dizer oi!
