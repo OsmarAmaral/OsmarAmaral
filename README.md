@@ -1,54 +1,38 @@
-# 💻 Osmar Amaral
+<div align="center">
+  
+# 👨💻 **Hello World!** Sou Osmar Amaral 🚀
 
-Bem-vindo ao meu perfil no GitHub! Sou um **Desenvolvedor Fullstack**, com um foco especial no **desenvolvimento backend**. Atualmente, trabalho como **Desenvolvedor Júnior**, aprimorando minhas habilidades e contribuindo para projetos desafiadores.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7A3EFF&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Event+Speaker;Continuous+Learner)](https://git.io/typing-svg)
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Backend
-- **Node.js** com **Express**
-- **PHP**
-- **Python**
-- **Java**
-- **C++**
-
-### Banco de Dados
-- **MySQL**
-- **PostgreSQL**
-- **SQLServer**
-
-### Frontend
-- **JavaScript**
-- **HTML**
-- **CSS**
-- **Bootstrap**
-
-### Controle de Versão
-- **Git** e **GitHub**
+</div>
 
 ---
 
-## 🌟 Sobre mim
+## 🛠️ **Tech Stack**
 
-- 💼 Focado em soluções robustas e escaláveis para o backend.
-- 🚀 Sempre aprendendo e explorando novas tecnologias.
-- 🤝 Abertura para colaborações em projetos open-source e desafios técnicos.
+<div align="center">
+  
+| **Backend**       | **Frontend**      | **Databases**     | **Ferramentas**   |
+|-------------------|-------------------|-------------------|-------------------|
+| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> |
 
----
-
-## 📈 Estatísticas do GitHub
-
-![Análise do GitHub](https://github-readme-stats.vercel.app/api?username=OsmarAmaral&show_icons=true&theme=radical)
+</div>
 
 ---
 
-## 📫 Contato
-
-Se quiser trocar ideias, colaborar em projetos ou apenas bater um papo, fique à vontade para entrar em contato comigo:
-
-- **E-mail:** [osmar.s@estudante.ifmt.edu.br](mailto:osmar.s@estudante.ifmt.edu.br)
+## 🏆 **Conquistas**
+- 🥈 2º Lugar na FECITI 2024 (Ensino Médio e Técnico)
+- 🎤 Participação no ERI-MT 2024 como Palestrante
+- 💼 Primeira vaga como Dev Full Stack Jr aos 16 anos
+- 🚀 10+ APIs desenvolvidas em produção
 
 ---
 
-Obrigado por visitar o meu perfil! 🚀
+## 📌 **Sobre Mim**
+
+```text
+🌱 Atualmente trabalhando na Flamboyan Modas
+🔭 Foco principal: Desenvolvimento Backend com Node.js
+📚 4+ anos estudando programação
+🎯 Objetivo: Arquitetura de Sistemas Escaláveis
+💡 Apaixonado por resolver problemas complexos
