@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨💻 **Hello World!** Sou Osmar Amaral 🚀
+# 💻 **Hello World!** Sou Osmar Amaral 🚀
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7A3EFF&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Event+Speaker;Continuous+Learner)](https://git.io/typing-svg)
 
