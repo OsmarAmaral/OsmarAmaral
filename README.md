@@ -33,6 +33,6 @@
 ```text
 🌱 Atualmente trabalhando na Flamboyan Modas
 🔭 Foco principal: Desenvolvimento Backend com Node.js
-📚 4+ anos estudando programação
+📚 2+ anos estudando programação
 🎯 Objetivo: Arquitetura de Sistemas Escaláveis
 💡 Apaixonado por resolver problemas complexos
