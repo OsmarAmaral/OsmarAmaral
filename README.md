@@ -22,9 +22,9 @@
 
 ## 🏆 **Conquistas**
 - 🥈 2º Lugar na FECITI 2024 (Ensino Médio e Técnico)
-- 🎤 Participação no ERI-MT 2024 como Palestrante
+- 🎤 2° Lugar na MECTI 2025 (Projeto de inovação)
 - 💼 Primeira vaga como Dev Full Stack Jr aos 16 anos
-- 🚀 10+ APIs desenvolvidas em produção
+- 🚀 1° Lugar no Mato Grosso na Fase Zero de programação da SBC
 
 ---
 
@@ -32,7 +32,6 @@
 
 ```text
 🌱 Atualmente trabalhando na Flamboyan Modas
-🔭 Foco principal: Desenvolvimento Backend com Node.js
+🔭 Foco principal: Desenvolvimento Backend com Node.js e Express
 📚 2+ anos estudando programação
 🎯 Objetivo: Arquitetura de Sistemas Escaláveis
-💡 Apaixonado por resolver problemas complexos
